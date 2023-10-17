@@ -1,0 +1,34 @@
+{
+  "name": "Parallax Region",
+  "version": "23.1",
+  "description": "Description here",
+  "keywords": [],
+  "homepage": "https://www.plug-ins-pro.com/",
+  "bugs": {
+    "url": "https://github.com/plug-ins-pro/parallax_region/issues",
+    "email": "support@plug-ins-pro.com"
+  },
+  "license": "Commercial",
+  "commercial": "Yes",
+  "author": {
+    "name": "United Codes",
+    "email": "info@plug-ins-pro.com",
+    "url": "https://www.united-codes.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plug-ins-pro/parallax_region"
+  },
+  "oracle": {
+    "versions": [],
+    "apex": {
+      "versions": [],
+      "plugin": {
+        "internalName": "UNITEDCODES_PARALLAX_REGION",
+        "type": "regio",
+        "demo": "https://www.plug-ins-pro.com/ords/pluginspro_web/r/parallax_region/home",
+        "previewImage": "LINK_TO_PREVIEW_IMAGE_HERE"
+      }
+    }
+  }
+}
