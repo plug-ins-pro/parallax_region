@@ -1,19 +1,20 @@
 {
   "name": "Parallax Region",
   "version": "23.1",
-  "description": "Description here",
-  "keywords": [],
+  "description": "Parallax scrolling is a visual effect where the background of a web page appears to stay still while the foreground shifts vertically or horizontally. Parallax scrolling is used to add visual interest to a website and engage users as they scroll through a web page. With this template plug-in, users can easily create declarative parallax regions. It has a feature to be used as a single or multiple instance template with many declarative options. With this plug-in, you can achieve consistency, save time, and scale effortlessly with our 'Reusable' feature in APEX.",
+  "keywords": ["parallax"],
   "homepage": "https://www.plug-ins-pro.com/",
   "bugs": {
     "url": "https://github.com/plug-ins-pro/parallax_region/issues",
     "email": "support@plug-ins-pro.com"
   },
   "license": "Commercial",
-  "commercial": "Yes",
+  "commercial": "No",
+  "commercially_supported":"Yes", 
   "author": {
     "name": "United Codes",
     "email": "info@plug-ins-pro.com",
-    "url": "https://www.united-codes.com/"
+    "url": "https://www.plug-ins-pro.com/"
   },
   "repository": {
     "type": "git",
@@ -22,12 +23,12 @@
   "oracle": {
     "versions": [],
     "apex": {
-      "versions": [],
+      "versions": ["23.1.0"],
       "plugin": {
         "internalName": "UNITEDCODES_PARALLAX_REGION",
-        "type": "regio",
-        "demo": "https://apex.apexrnd.com/ords/r/pip_prd/parallax_region/home",
-        "previewImage": "LINK_TO_PREVIEW_IMAGE_HERE"
+        "type": "template component",
+        "demo": "https://apex.apexrnd.com/ords/r/pip_prd/parallax/",
+        "previewImage": "https://www.plug-ins-pro.com/docs/parallax-region/assets/images/parallex_demo-cca7a15096e721484d33761a349022bb.gif"
       }
     }
   }
