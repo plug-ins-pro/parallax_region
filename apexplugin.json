@@ -21,7 +21,7 @@
     "url": "https://github.com/plug-ins-pro/parallax_region"
   },
   "oracle": {
-    "versions": [],
+    "versions": ["19.x", "21.x"],
     "apex": {
       "versions": ["23.1.0"],
       "plugin": {
