@@ -22,9 +22,16 @@
     "url": "https://github.com/plug-ins-pro/parallax_region"
   },
   "oracle": {
-    "versions": [],
-    "apex": {
-      "versions": ["23.1.0","23.2.0"],
+    "versions": [
+      "19.0.0.0",
+      "21.0.0.0",
+      "23.0.0.0"
+   ],
+   "apex": {
+      "versions": [
+         "23.1.0",
+         "23.2.0"
+      ],
       "plugin": {
         "internalName": "UNITEDCODES_PARALLAX_REGION",
         "type": "template component",
